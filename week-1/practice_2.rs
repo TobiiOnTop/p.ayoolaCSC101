@@ -1,4 +1,4 @@
-fn fn main() {
+fn main() {
 	println!("Welcome To COS101!");
 
 	println!("The course learning outcome is as follows:");
