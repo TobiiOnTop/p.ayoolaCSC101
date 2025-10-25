@@ -13,4 +13,5 @@ fn main() {
 		num+=1;
 	}
 	println!("outside loop number value is {}",num);
+
 }
